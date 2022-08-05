@@ -1,3 +1,5 @@
+<img src="https://github.com/crisantogo/crisantogo/blob/main/assets/README_banner.png" width="100%" alt="welcome to my page">
+
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center">A passionate full-stack software developer</h3>
 

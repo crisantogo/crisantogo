@@ -1,7 +1,7 @@
 <img src="https://github.com/crisantogo/crisantogo/blob/main/assets/Hello, I'm Christopher Gopeesingh.gif" width="100%" alt="welcome to my page">
 
 <h1 align="center">Hi 👋, I'm Christopher</h1>
-<h3 align="center">Creative, meticulous, software engineer with a keen interest in modern UX/UI design.  Always curious to learn and experience new things(especially food!).</h3>
+<h3 align="center">Creative, meticulous, software engineer with a keen interest in modern UX/UI design.  Always curious to learn and experience new things(especially food!)</h3>
 
 <p align="center"> <a href="https://twitter.com/crisantogo" target="blank"><img src="https://img.shields.io/twitter/follow/crisantogo?logo=twitter&style=for-the-badge" alt="crisantogo" /></a> </p>
 
